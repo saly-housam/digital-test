@@ -1,13 +1,17 @@
 import { Route ,Routes} from "react-router-dom";
-import CategoriesList from "./pages/categories";
-import ItemsList from "./pages/itemsList";
+
+import LocationPage from "./pages/locationPage";
+import SalePage from "./pages/salePage";
+import CongradulationPage from "./pages/congradulation";
 
 
 function Layout() {
   return (
     <Routes>
-      <Route path="/" element={<CategoriesList />} />
-      <Route path="/item" element={<ItemsList />} />
+      <Route path="/" element={<LocationPage/>} />
+      <Route path="/sale" element={<SalePage />} />
+      <Route path="/congrad" element={<CongradulationPage/>} />
+      
     </Routes>
   );
 }

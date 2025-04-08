@@ -1,0 +1,28 @@
+
+[
+        {
+            "id":1,
+            "image":"images/logo-image.png",
+            "desc":"lorem lorem opsum"
+        },
+        {
+           "id":2,
+            "image":"images/logo-image-2.png",
+            "desc":"lorem lorem opsum"
+        },
+        {
+            "id":3,
+             "image":"images/logo-image-3.png",
+             "desc":"lorem lorem opsum"
+         },
+         {
+            "id":4,
+             "image":"images/logo-image-4.png",
+             "desc":"lorem lorem opsum"
+         },
+         {
+            "id":5,
+             "image":"images/girle.png",
+             "desc":"lorem lorem opsum"
+         }
+    ]

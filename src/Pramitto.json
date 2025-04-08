@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "image":"images/food1.png",
+        "title":"lorem lorem",
+        "description":"Buy 1 Get 1 free"
+    },
+    {
+       "id":2,
+        "image":"images/food2.png",
+         "title":"opsom opsom",
+        "description":"Buy 1 Get 1 free"
+    }
+  ]
